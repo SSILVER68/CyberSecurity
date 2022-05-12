@@ -1,9 +1,5 @@
 # CyberSecurity
 
-            Hello World
-
-
-![Picture of Google](image/Google_1.png)
 
 Submission: "Its the End of the Assessment as We Know It, and I Feel Fine" 
 •	List the steps and commands used to complete the tasks.
