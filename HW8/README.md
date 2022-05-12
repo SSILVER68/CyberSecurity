@@ -11,7 +11,7 @@ Submission: "Its the End of the Assessment as We Know It, and I Feel Fine"
 •	List any findings associated to a hacker.
 •	Document the mitigation recommendations to protect against the discovered vulnerabilities.
 •	Document the OSI layer where the findings were found.
-PHASE-1
+        PHASE-1
 •	fping < fping.txt
 •	OSI – Network - Layer 3
 
@@ -22,3 +22,7 @@ PHASE-1
 
 ![Alive Nano](image/HW8-Alive-Nano.png)
 
+        PHASE-2
+•	The cmd ran was nmap -sS 161.35.96.20
+•	The transport layer 4 is used for SYN scans
+•	Port 22 is open
