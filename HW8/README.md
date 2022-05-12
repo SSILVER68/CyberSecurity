@@ -17,3 +17,8 @@ PHASE-1
 
 
 ![OSI Layer](image/HW8-OSI-Layer.png)
+
+![Alive](image/HW8-Alive.png)
+
+![Alive Nano](image/HW8-Alive-Nano.png)
+
