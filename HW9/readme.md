@@ -92,11 +92,11 @@ Your Mission:
 •	Document this shortest path so it can be used by the Resistance to develop a static route to improve the traffic.
   The shortest path from Batuu to Jehda is: 
 
-  Batuu - D - C - E - I - L - Q - T - V - Jedha 
+  Batuu-D-C-E-F-J-I-L-Q-T-V-Jedha 
 
   The path doesn't include Planet N in its route
 
-![Galaxy Map](image/HW9-Mission5-Galaxy_Network_map.png)
+
 
 
 
