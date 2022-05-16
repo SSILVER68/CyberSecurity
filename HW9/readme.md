@@ -41,11 +41,13 @@ nslookup -type=txt theforce.net
 
 •	    Explain why the Force's emails are going to spam.
 
-o The Force’s emails are going to the spam folder because the server’s IP address in the SPF record isn’t correct.
+The Force’s emails are going to the spam folder because the server’s IP address in the SPF record isn’t correct.
 
 •	    Document what a corrected DNS record should be.
 
-o	The corrected DNS record should have an IP address of 45.23.176.21
+The corrected DNS record should have an IP address of 45.23.176.21
+
+
 
 
 
