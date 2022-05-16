@@ -25,7 +25,7 @@ o	The corrected mail servers should be...
   
     asltx.2.google.com
 
- 
+ <br>
     Mission 2
 
 Issue: Now that you've addressed the mail servers, all emails are coming through. However, users are still reporting that they haven't received mail from the theforce.net alert bulletins.
