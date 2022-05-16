@@ -58,6 +58,12 @@ Your mission:
 
 ![cname](image/HW9-Mission3-cname.png)
 
+•	Explain why the sub page of resistance.theforce.net isn't redirecting to theforce.net.
+
+The canonical name for www.theforce.net is incorrectly listed as theforce.net but instead should be listed as resistance.theforce.net
+
+
+
 
 
 
