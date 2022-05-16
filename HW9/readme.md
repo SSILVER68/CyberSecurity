@@ -22,3 +22,15 @@ o	The Resistance isn’t receiving any emails because the URLs listed for the e-
 o	The corrected mail servers should be...
 	asltx.l.google.com 
 	asltx.2.google.com
+
+    Mission 2
+Issue: Now that you've addressed the mail servers, all emails are coming through. However, users are still reporting that they haven't received mail from the theforce.net alert bulletins.
+•	Many of the alert bulletins are being blocked or going into spam folders.
+•	This is probably due to the fact that theforce.net changed the IP address of their mail server to 45.23.176.21 while your network was down.
+•	These alerts are critical to identify pending attacks from the Empire.
+
+
+    Your mission:
+•	Determine and document the SPF for theforce.net using NSLOOKUP.
+o	nslookup -type=txt theforce.net 
+
