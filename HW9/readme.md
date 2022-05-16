@@ -35,6 +35,7 @@ Issue: Now that you've addressed the mail servers, all emails are coming through
     Your mission:
 •	Determine and document the SPF for theforce.net using NSLOOKUP.
 
-
 nslookup -type=txt theforce.net 
+
+![nslookup-theforce.net](image/HW9-nslookup-theforce.net.png)
 
