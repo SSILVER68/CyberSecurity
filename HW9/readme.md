@@ -81,6 +81,20 @@ Your mission:
 
   I would add the website ns2.galaxybackup.com for the backup DNS server as it's currently not listed
 
+    Mission 5
+Issue: The network traffic from the planet of Batuu to the planet of Jedha is very slow.
+•	You have been provided a network map with a list of planets connected between Batuu and Jedha.
+•	It has been determined that the slowness is due to the Empire attacking Planet N.
+Your Mission:
+
+•	View the Galaxy Network Map and determine the OSPF shortest path from Batuu to Jedha.
+•	Confirm your path doesn't include Planet N in its route.
+•	Document this shortest path so it can be used by the Resistance to develop a static route to improve the traffic.
+  The shortest path from Batuu to Jehda is:
+
+  The path doesn't include Planet N in its route
+
+![Galaxy Map](image/HW9-Mission5-Galaxy_Network_map.png)
 
 
 
