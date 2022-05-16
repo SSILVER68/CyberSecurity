@@ -121,6 +121,25 @@ Your Mission:
 
 ![aircrack](image/HW9-Mission6-aircrack.png)
 
+Mission 7
+
+As a thank you for saving the galaxy, the Resistance wants to send you a secret message!
+Your Mission:
+•	View the DNS record from Mission #4.
+•	The Resistance provided you with a hidden message in the TXT record, with several steps to follow.
+•	Follow the steps from the TXT record.
+o	Note: A backup option is provided in the TXT record (as a website) in case the main telnet site is unavailable
+•	Take a screen shot of the results.
+
+    This was a fun activity!
+
+![Mission7](image/HW9-Mission7.png)
+
+![Mission7.1](image/HW9-Mission7.1.png)
+
+![Mission7.2](image/HW9-Mission7.2.png)
+
+![Mission7.3](image/HW9-Mission7.3.png)
 
 
 
