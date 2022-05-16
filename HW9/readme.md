@@ -13,3 +13,9 @@ Your mission:
 
 ![Current Email Servers](image/HW9-Mission1-Current-EMail-Servers.1.2.png)
 
+•	    Explain why the Resistance isn't receiving any emails.
+o	The Resistance isn’t receiving any emails because the URLs listed for the e-mail exchange are incorrect
+•	    Document what a corrected DNS record should be.
+o	The corrected mail servers should be: 
+	asltx.l.google.com 
+	asltx.2.google.com
