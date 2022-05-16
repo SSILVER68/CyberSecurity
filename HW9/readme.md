@@ -1,6 +1,6 @@
 #Cybersecurity  
 
-Mission 1
+    Mission 1
 Issue: Due to the DoS attack, the Empire took down the Resistance's DNS and primary email servers.
 •	The Resistance's network team was able to build and deploy a new DNS server and mail server.
 •	The new primary mail server is asltx.l.google.com and the secondary should be asltx.2.google.com.
