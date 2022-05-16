@@ -32,7 +32,7 @@ Issue: Now that you've addressed the mail servers, all emails are coming through
 •	These alerts are critical to identify pending attacks from the Empire.
 
 
-    Your mission:
+    Your mission (Mission 2 cont.):
 •	Determine and document the SPF for theforce.net using NSLOOKUP.
 
 nslookup -type=txt theforce.net 
