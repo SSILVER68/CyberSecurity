@@ -121,6 +121,8 @@ Your Mission:
 
 ![aircrack](image/HW9-Mission6-aircrack.png)
 
+![wireshark](image/HW9-Mission6-wireshark.png)
+
 Mission 7
 
 As a thank you for saving the galaxy, the Resistance wants to send you a secret message!
