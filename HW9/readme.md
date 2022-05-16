@@ -79,7 +79,7 @@ Your mission:
 
 •	Document how you would fix the DNS record to prevent this issue from happening again.
 
-I would add the website ns2.galaxybackup.com for the backup DNS server as it's currently not listed
+  I would add the website ns2.galaxybackup.com for the backup DNS server as it's currently not listed
 
 
 
