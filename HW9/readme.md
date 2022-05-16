@@ -35,7 +35,7 @@ Issue: Now that you've addressed the mail servers, all emails are coming through
     Your mission (Mission 2 cont.):
 •	Determine and document the SPF for theforce.net using NSLOOKUP.
 
-nslookup -type=txt theforce.net 
+    nslookup -type=txt theforce.net 
 
 ![the_force](image/HW9-Mission2-nslookup-theforce.net.png)
 
@@ -46,7 +46,7 @@ The Force’s emails are going to the spam folder because the server’s IP addr
 
 •	    Document what a corrected DNS record should be.
 
-The corrected DNS record should have an IP address of 45.23.176.21
+    The corrected DNS record should have an IP address of 45.23.176.21
 
     Mission 3
 Issue: You have successfully resolved all email issues and the resistance can now receive alert bulletins. However, the Resistance is unable to easily read the details of alert bulletins online.
@@ -60,11 +60,11 @@ Your mission:
 
 •	Explain why the sub page of resistance.theforce.net isn't redirecting to theforce.net.
 
-  The canonical name for www.theforce.net is incorrectly listed as theforce.net, but instead should be listed as resistance.theforce.net.
+    The canonical name for www.theforce.net is incorrectly listed as theforce.net, but instead should be listed as resistance.theforce.net.
 
 •	Document what a corrected DNS record should be.
 
-  The DNS record should be corrected to resistance.theforce.net instead of theforce.net
+    The DNS record should be corrected to resistance.theforce.net instead of theforce.net
 
     Mission 4
 Issue: During the attack, it was determined that the Empire also took down the primary DNS server of princessleia.site.
@@ -79,7 +79,7 @@ Your mission:
 
 •	Document how you would fix the DNS record to prevent this issue from happening again.
 
-  I would add the website ns2.galaxybackup.com for the backup DNS server as it's currently not listed
+    I would add the website ns2.galaxybackup.com for the backup DNS server as it's currently not listed
 
 
 
