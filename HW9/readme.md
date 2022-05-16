@@ -9,7 +9,7 @@ Your mission:
 •	Determine and document the mail servers for starwars.com using NSLOOKUP.
 
 
-![OSI Layer](image/HW9-Mission1-StarWars.com.1.1.png)
+![Star Wars](image/HW9-Mission1-StarWars.com.1.1.png)
 
-![OSI Layer](image/HW9-Mission1-Current-EMail-Servers.1.2.png)
+![Current Email Servers](image/HW9-Mission1-Current-EMail-Servers.1.2.png)
 
