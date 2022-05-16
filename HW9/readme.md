@@ -72,6 +72,7 @@ Issue: During the attack, it was determined that the Empire also took down the p
 •	However, the Resistance was unable to access this important site during the attacks and now they need you to prevent this from happening again.
 •	The Resistance's networking team provided you with a backup DNS server of: ns2.galaxybackup.com.
 Your mission:
+
 •	Confirm the DNS records for princessleia.site.
 
 ![princessleia](image/HW9-Mission4-princessleia.site.png)
