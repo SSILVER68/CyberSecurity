@@ -90,7 +90,9 @@ Your Mission:
 •	View the Galaxy Network Map and determine the OSPF shortest path from Batuu to Jedha.
 •	Confirm your path doesn't include Planet N in its route.
 •	Document this shortest path so it can be used by the Resistance to develop a static route to improve the traffic.
-  The shortest path from Batuu to Jehda is:
+  The shortest path from Batuu to Jehda is: 
+
+  Batuu - D - C - E - I - L - Q - T - V - Jedha 
 
   The path doesn't include Planet N in its route
 
