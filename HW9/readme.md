@@ -96,6 +96,9 @@ Your Mission:
 
   The path doesn't include Planet N in its route
 
+![Galaxy-Map](image/Galaxy_Network_map.png)
+
+
 
 
 
