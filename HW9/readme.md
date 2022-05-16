@@ -74,9 +74,10 @@ Issue: During the attack, it was determined that the Empire also took down the p
 Your mission:
 •	Confirm the DNS records for princessleia.site.
 
-  ![princessleia](image/HW9-Mission4-princessleia.site.png)
+![princessleia](image/HW9-Mission4-princessleia.site.png)
 
-  
+•	Document how you would fix the DNS record to prevent this issue from happening again.
+
 
 
 
