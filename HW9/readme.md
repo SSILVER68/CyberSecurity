@@ -37,7 +37,8 @@ Issue: Now that you've addressed the mail servers, all emails are coming through
 
 nslookup -type=txt theforce.net 
 
-![theforce](image/HW9-nslookup-theforce.net.png)
+![the_force](image/HW9-Mission2-nslookup-theforce.net.png)
+
 
 •	    Explain why the Force's emails are going to spam.
 
