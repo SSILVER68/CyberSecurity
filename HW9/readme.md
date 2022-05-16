@@ -47,6 +47,17 @@ The Force’s emails are going to the spam folder because the server’s IP addr
 
 The corrected DNS record should have an IP address of 45.23.176.21
 
+    Mission 3
+Issue: You have successfully resolved all email issues and the resistance can now receive alert bulletins. However, the Resistance is unable to easily read the details of alert bulletins online.
+
+•	They are supposed to be automatically redirected from their sub page of resistance.theforce.net to theforce.net.
+Your mission:
+
+•	Document how a CNAME should look by viewing the CNAME of www.theforce.net using NSLOOKUP:
+
+![cname](image/HW9-Mission3-cname.png)
+
+
 
 
 
