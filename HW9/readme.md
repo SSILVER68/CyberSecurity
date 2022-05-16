@@ -109,6 +109,19 @@ Your Mission:
 ![Galaxy-Map](image/Galaxy_Network_map.png)
 
 
+Mission 6
+
+Issue: Due to all these attacks, the Resistance is determined to seek revenge for the damage the Empire has caused.
+•	You are tasked with gathering secret information from the Dark Side network servers that can be used to launch network attacks against the Empire.
+•	You have captured some of the Dark Side's encrypted wireless internet traffic in the following pcap: Darkside.pcap.
+Your Mission:
+•	Figure out the Dark Side's secret wireless key by using Aircrack-ng.
+
+![mac-ip-address](image/HW9-Mission6-mac-ip-address.png)
+
+![aircrack](image/HW9-Mission6-aircrack.png)
+
+
 
 
 
