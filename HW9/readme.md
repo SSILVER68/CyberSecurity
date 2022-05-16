@@ -20,8 +20,8 @@ o	The Resistance isn’t receiving any emails because the URLs listed for the e-
 
     Document what a corrected DNS record should be:
 o	The corrected mail servers should be...
-	asltx.l.google.com 
-	asltx.2.google.com
+  asltx.l.google.com 
+  asltx.2.google.com
 
     Mission 2
 Issue: Now that you've addressed the mail servers, all emails are coming through. However, users are still reporting that they haven't received mail from the theforce.net alert bulletins.
