@@ -60,11 +60,11 @@ Your mission:
 
 •	Explain why the sub page of resistance.theforce.net isn't redirecting to theforce.net.
 
-The canonical name for www.theforce.net is incorrectly listed as theforce.net, but instead should be listed as resistance.theforce.net.
+  The canonical name for www.theforce.net is incorrectly listed as theforce.net, but instead should be listed as resistance.theforce.net.
 
 •	Document what a corrected DNS record should be.
 
-The DNS record should be corrected to resistance.theforce.net instead of theforce.net
+  The DNS record should be corrected to resistance.theforce.net instead of theforce.net
 
 
 
