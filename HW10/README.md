@@ -34,7 +34,27 @@ Riddle #2
 
 Riddle #3
 
-        To solve Riddle #3, you must open the terminal window, 
+        To solve Riddle #3, you must open the terminal window, execute an openssl with the given -k and -iv.  The result gives you the third key ud6s98n
+
+Riddle #4
+
+        To solve Riddle #4, Jack would send an encrypted message to Jill utilizing her Public Key.  Jill would use her Private Key to decrypt Jack's message. They would need to utilize 12 Asymmetric (N*2) and 15 Symmetric (N*(N-1))/2 keys for the group of 6 to encrypt. In order for Tim to encrypt a message to one of his friends, he would utilize Alice's Public Key.  The result gave me the fourth key 7gsn3nd2
+
+Riddle #5
+
+        To solve Riddle #5, I copied the MD5 hash of 3b75cdd826a16f5bba0076690f644dc7 and utilized the CrackStation to crack it.  The result was and md5 of argyle.  Once entered into the Riddle, the result was my fifth key ajy39d2
+
+Riddle #6
+
+        To solve Riddle #6, I downloaded the Mary Had a Little Lamb image to my vm.  I ran steghide extract -sf mary-lamb.jpg.  The result was placed in the code_is_inside_this_file.txt.  I then figured out that the passphrase was ABC as the book that Mary was holding was called ABC.  I then ran cat code_is_inside_this_file.txt which provided me with the solution of mcclane.  I then enterred mcclane into the riddle which provided me with the final key 7skahd6
+
+Ransomeware Decrypter
+
+        Lastly, I enterred all of the keys found in Riddles 1-6 into the Ransomeware Decrypter which informed me that I successfully decrypted the Ransomware!
+
+        
+
+
 
 
 
