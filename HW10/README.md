@@ -52,6 +52,9 @@ Ransomeware Decrypter
 
         Lastly, I enterred all of the keys found in Riddles 1-6 into the Ransomeware Decrypter which informed me that I successfully decrypted the Ransomware!
 
+![RansomwareDecrypter](image/HW10-RiddleCompleted.png)
+
+
         
 
 
