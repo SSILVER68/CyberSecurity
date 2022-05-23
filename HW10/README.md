@@ -1,4 +1,4 @@
-# CyberSecurity-SSILVER-HW#10
+# CyberSecurity-SSILVER-HW10
 
 Instructions:
 In order to solve each riddle, you will need to apply cryptographic concepts covered in the past three lessons.
